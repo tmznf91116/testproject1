@@ -30,7 +30,7 @@
  
 <!-- 본문 시작 -->
 <h1>회원가입</h1>
-<form id="signUpForm" action="user.jsp" method="post">
+<form id="signUpForm" action="home2.jsp" method="post">
 <table>
 <tr>
     <td style="width: 200px;">이름(Full Name)</td>
