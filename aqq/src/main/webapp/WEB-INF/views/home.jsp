@@ -16,6 +16,7 @@
         var form = document.getElementById("userForm");
         //TODO 유효성 검사
         return true;
+        //
     }
 //]]>
 </script>          
